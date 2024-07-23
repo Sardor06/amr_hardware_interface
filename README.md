@@ -1,2 +1,2 @@
-# amr_hardware_interface
-This is the ROS2 hardware package for Autonomous Mobile Robot I have built
+# marvin
+Autonomous Mobile Ground Robot from Hitchhiker's guide to the galaxy
